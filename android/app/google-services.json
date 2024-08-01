@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16240396837",
+    "project_id": "loginapp-d4f91",
+    "storage_bucket": "loginapp-d4f91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16240396837:android:63596a1125408b0ee2cdcc",
+        "android_client_info": {
+          "package_name": "com.example.girisyap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClidb3U20kDCkbw78G0lGuvUtdUYJsjXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
